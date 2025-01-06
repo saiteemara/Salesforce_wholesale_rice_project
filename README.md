@@ -1,6 +1,6 @@
-# Rice Mill CRM Application
+# 📖 Rice Mill CRM Application
 <p>The Rice Mill CRM Application is a comprehensive solution designed to streamline and simplify operations in a wholesale rice mill. This application leverages Salesforce's powerful CRM capabilities to enhance customer experiences, optimize store operations, and improve overall efficiency in the rice mill factory.</p>
-<h2>Features and Functionality</h2>
+<h2>📓Features and Functionality</h2>
 <ul>
   <li><h3>Reporting and Dashboards:</h3></li><br>
          <p>Generate detailed reports and analytics on daily rice production, sales, total income, and customer purchases.</p>
