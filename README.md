@@ -31,7 +31,13 @@ https://drive.google.com/file/d/15RxN7fBo-H0nUbgM2vCL3aq3JjC_P7iW/view?usp=shari
 <h2>👀 Screenshots</h2>
 
 ![Screenshot (163)](https://github.com/user-attachments/assets/ac0eaa73-3421-4f3d-90ea-b6be7e9cda9d)
+<p>consumerRecord</p> 
+
 ![28](https://github.com/user-attachments/assets/eda277db-7861-4d30-ad01-90095bda1ede)
+<p>consumerTrigger</p>
+
 ![29](https://github.com/user-attachments/assets/3b6bd8ff-9b16-4936-82f2-6501582e0a29)
 
+<h2>✍ Author</h2>
+   <a href="https://github.com/saiteemara">.saiteemara</a>
 
